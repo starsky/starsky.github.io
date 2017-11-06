@@ -50,6 +50,24 @@
     
     <url>
     
+      <loc>http://mkoperski.com/demo/action_detection/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://mkoperski.com/demo/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://mkoperski.com/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -203,6 +221,38 @@
     
     <url>
     
+      <loc>http://mkoperski.com/bio/00_inria.phd/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://mkoperski.com/bio/01_disney_intern/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://mkoperski.com/bio/02_inria_intern/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://mkoperski.com/bio/03_put/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://mkoperski.com/publication_types/1/</loc>
       <lastmod>2017-08-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -215,6 +265,15 @@
     
       <loc>http://mkoperski.com/publication_types/5/</loc>
       <lastmod>2011-10-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://mkoperski.com/bio/</loc>
       <priority>0</priority>
     </url>
     
