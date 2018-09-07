@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Michal Koperski, PhD</title>
+    <link>http://mkoperski.com/demo/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Michal Koperski, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Michal Koperski</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://mkoperski.com/demo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Real Time Action Detection</title>
+      <link>http://mkoperski.com/demo/action_detection/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://mkoperski.com/demo/action_detection/</guid>
+      <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

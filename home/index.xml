@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Michal Koperski, PhD</title>
+    <link>http://mkoperski.com/home/</link>
+    <description>Recent content in Homes on Michal Koperski, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Michal Koperski</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://mkoperski.com/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://mkoperski.com/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://mkoperski.com/home/about/</guid>
+      <description>About me I am Post-doc at INRIA (STARS). My research focuses on: action recognition, action detection, codebook representation, multimodal representation (RGB + Depth), spatio-temporal attention, deep learning.
+My PhD thesis was supervised by Francois Bremond, the thesis was a part of Toyota Partner Robot project. In this project, we focused on assessing people cognitive and behavioral status, based on daily-living activities monitoring.
+During my PhD I was a research intern at Disney Research Pittsburgh, I was working on codebook representations for People Re-Identification.</description>
+    </item>
+    
+    <item>
+      <title>PhD</title>
+      <link>http://mkoperski.com/home/phd/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://mkoperski.com/home/phd/</guid>
+      <description>On November 9th, 2017, I defended my Ph.D. thesis in Computer Science (Computer Vision) from the INRIA and from the University of Nice Sophia-Antipolis, France. The topic of my Ph.D. was &amp;ldquo;Human Action Recognition in Videos with Local Representation&amp;rdquo;. All the research involved in my thesis was conducted at INRIA under the supervision of Francois Bremond.
+The jury of my Ph.D. defense was:
+ Frederic Precioso, Professor, University of Nice Sophia-Antipolis, president, Matthieu Cord, Professor, Pierre and Marie Curie University, reviewer, Leonid Sigal, Professor, University of British Columbia, reviewer, Jean-Marc Odobez, Professor, IDIAP, examinator, Francois Bremond, Research Director, INRIA (STARS), advisor.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://mkoperski.com/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>http://mkoperski.com/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demos</title>
+      <link>http://mkoperski.com/home/demos/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://mkoperski.com/home/demos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://mkoperski.com/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://mkoperski.com/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
