@@ -5,6 +5,69 @@
     
     <url>
     
+      <loc>http://mkoperski.com/publication/plugin_net/</loc>
+      <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://mkoperski.com/publication/smarthome_ds/</loc>
+      <lastmod>2019-10-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://mkoperski.com/publication/hybrid_arch/</loc>
+      <lastmod>2019-03-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://mkoperski.com/publication/spatio_temporal_grids/</loc>
+      <lastmod>2018-12-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://mkoperski.com/publication/online_detection/</loc>
+      <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://mkoperski.com/publication/praxis/</loc>
+      <lastmod>2018-09-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://mkoperski.com/publication/deep_lstm/</loc>
+      <lastmod>2018-08-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://mkoperski.com/publication/pose_cnn/</loc>
       <lastmod>2017-08-29T00:00:00+00:00</lastmod>
     </url>
@@ -16,6 +79,15 @@
     
       <loc>http://mkoperski.com/publication/group_reid/</loc>
       <lastmod>2017-06-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://mkoperski.com/publication/color_depth_sensing/</loc>
+      <lastmod>2017-06-03T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -221,6 +293,14 @@
     
     <url>
     
+      <loc>http://mkoperski.com/bio/08_tplx/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://mkoperski.com/bio/09_inria_postdoc/</loc>
     </url>
     
@@ -262,7 +342,17 @@
     <url>
     
       <loc>http://mkoperski.com/publication_types/1/</loc>
-      <lastmod>2017-08-29T00:00:00+00:00</lastmod>
+      <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://mkoperski.com/publication_types/2/</loc>
+      <lastmod>2018-09-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -340,7 +430,7 @@
     <url>
     
       <loc>http://mkoperski.com/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <lastmod>2019-10-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -360,7 +450,7 @@
     <url>
     
       <loc>http://mkoperski.com/publication_types/</loc>
-      <lastmod>2017-08-29T00:00:00+00:00</lastmod>
+      <lastmod>2019-10-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

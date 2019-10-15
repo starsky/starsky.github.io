@@ -13,12 +13,22 @@
     
     <item>
       <title></title>
+      <link>http://mkoperski.com/bio/08_tplx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://mkoperski.com/bio/08_tplx/</guid>
+      <description>From Aug 2018 I am a Research Scientist at Tooploox.
+ I am working on deep neural networks models for object recognition, detection on images and videos, I am Advising junior scientist, I am working on research project on incremental learning, I am working on code transfer to our industrial partners.  </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://mkoperski.com/bio/09_inria_postdoc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://mkoperski.com/bio/09_inria_postdoc/</guid>
-      <description>From Dec 2017 I am Post-doc at INRIA (STARS).
- Working on deep neural networks with spatio-temporal attention for action recognition, Working on real-time action detection, Working on technology transfer to industrial partners.  </description>
+      <description>From Dec 2017 until Jul 2018 I was a Post-doc at INRIA (STARS).
+ I worked on deep neural networks with spatio-temporal attention for action recognition, I worked on real-time action detection, I worked on technology transfer to industrial partners I published 6 scientific papers.  </description>
     </item>
     
     <item>
@@ -28,7 +38,7 @@
       
       <guid>http://mkoperski.com/bio/10_inria.phd/</guid>
       <description>From Feb 2014 until Nov 2017 I was PhD Student at INRIA (STARS). During my PhD I:
- proposed, implemented and validated several methods for action recognition and action detection, I published 9 scientific papers, The code of the proposed methods was successfully transferred to Toyota.  </description>
+ I proposed, implemented and validated several methods for action recognition and action detection, I published 9 scientific papers, The code of the proposed methods was successfully transferred to Toyota.  </description>
     </item>
     
     <item>

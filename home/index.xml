@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Michal Koperski</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://mkoperski.com/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,12 +15,12 @@
     <item>
       <title></title>
       <link>http://mkoperski.com/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>http://mkoperski.com/home/about/</guid>
-      <description>About me I am Post-doc at INRIA (STARS). My research focuses on: action recognition, action detection, codebook representation, multimodal representation (RGB + Depth), spatio-temporal attention, deep learning.
-My PhD thesis was supervised by Francois Bremond, the thesis was a part of Toyota Partner Robot project. In this project, we focused on assessing people cognitive and behavioral status, based on daily-living activities monitoring.
-During my PhD I was a research intern at Disney Research Pittsburgh, I was working on codebook representations for People Re-Identification.</description>
+      <description>About me I am a Research Scientist at Tooploox. I am working on projects which involve detection and recognition on images and videos. I am also a lead of research project on incremental learning.
+I was a Post-doc at INRIA (STARS). My research focused on: action recognition, action detection, codebook representation, multimodal representation (RGB + Depth), spatio-temporal attention, deep learning.
+My PhD thesis was supervised by Francois Bremond, the thesis was a part of Toyota Partner Robot project.</description>
     </item>
     
     <item>
@@ -55,7 +55,7 @@ The jury of my Ph.D. defense was:
     <item>
       <title>Contact</title>
       <link>http://mkoperski.com/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>http://mkoperski.com/home/contact/</guid>
       <description></description>
