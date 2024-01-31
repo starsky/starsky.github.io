@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philippe Robert | Michal Koperski, PhD</title>
+    <link>/authors/philippe-robert/</link>
+      <atom:link href="/authors/philippe-robert/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philippe Robert</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Mon, 03 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Philippe Robert</title>
+      <link>/authors/philippe-robert/</link>
+    </image>
+    
+    <item>
+      <title>PRAXIS: Towards automatic cognitive assessment using gesture recognition</title>
+      <link>/publication/conference-paper/praxis/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/praxis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

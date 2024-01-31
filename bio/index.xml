@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bios | Michal Koperski, PhD</title>
+    <link>/bio/</link>
+      <atom:link href="/bio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bios</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Bios</title>
+      <link>/bio/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/bio/05_nn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/bio/05_nn/</guid>
+      <description>&lt;p&gt;From Dec 2023 I am a co-founder and Senior ML Engineer at 
+&lt;a href=&#34;http://neuralspike.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuralSpikeAI&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I am responsible for building relations with clients,&lt;/li&gt;
+&lt;li&gt;I am managing ML engineers team,&lt;/li&gt;
+&lt;li&gt;I am involved in training Deep Learning models with focus on edge devices,&lt;/li&gt;
+&lt;li&gt;I supervise the whole model preparation process from data acquisition to model deployement and monitoring.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/bio/06_tplx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/bio/06_tplx/</guid>
+      <description>&lt;p&gt;From Aug 2018 until Nov 2023 I was a Senior ML Engineer at 
+&lt;a href=&#34;https://www.tooploox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tooploox&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I was working on deep neural networks models for object recognition, detection on images and videos,&lt;/li&gt;
+&lt;li&gt;I was advising junior scientists,&lt;/li&gt;
+&lt;li&gt;I was working on a research project on incremental and multimodal learning (check our new 
+&lt;a href=&#34;https://arxiv.org/pdf/1901.00326&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publication&lt;/a&gt;),&lt;/li&gt;
+&lt;li&gt;I was working on code transfer to our industrial partners.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/bio/07_mmhmm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/bio/07_mmhmm/</guid>
+      <description>&lt;p&gt;From Aug 2020 until Nov 2022 I was a Senior Machine Learning Engineer at 
+&lt;a href=&#34;https://www.mmhmm.app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mmhmm&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I was a lead Machine Learning engineer,&lt;/li&gt;
+&lt;li&gt;I worked on deep neural networks for semantic segmentation,&lt;/li&gt;
+&lt;li&gt;I developed models that are ready for real-time applications.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/bio/08_june/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/bio/08_june/</guid>
+      <description>&lt;p&gt;From Jan 2019 until Jun 2020 I was a Machine Learning Scpecialist at 
+&lt;a href=&#34;https://juneoven.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;June&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I was a lead Machine Learning engineer,&lt;/li&gt;
+&lt;li&gt;I was responsible for the design of the whole ML pipeline including data acquisition, model training, model maintenance, and model deployment to an embedded device,&lt;/li&gt;
+&lt;li&gt;My team managed to significantly improve model accuracy,&lt;/li&gt;
+&lt;li&gt;I was also responsible for proposing new product features and discussing their implementation with the business.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/bio/09_inria_postdoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/bio/09_inria_postdoc/</guid>
+      <description>&lt;p&gt;From Dec 2017 until Jul 2018 I was a Post-doc at 
+&lt;a href=&#34;https://www.inria.fr/centre/sophia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INRIA&lt;/a&gt; (
+&lt;a href=&#34;https://www.inria.fr/en/teams/stars&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;STARS&lt;/a&gt;).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I worked on deep neural networks with spatio-temporal attention for action recognition,&lt;/li&gt;
+&lt;li&gt;I worked on real-time action detection,&lt;/li&gt;
+&lt;li&gt;I worked on technology transfer to industrial partners&lt;/li&gt;
+&lt;li&gt;I published 6 scientific papers.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/bio/10_inria.phd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/bio/10_inria.phd/</guid>
+      <description>&lt;p&gt;From Feb 2014 until Nov 2017 I was PhD Student at 
+&lt;a href=&#34;https://www.inria.fr/centre/sophia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INRIA&lt;/a&gt; (
+&lt;a href=&#34;https://www.inria.fr/en/teams/stars&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;STARS&lt;/a&gt;). During my PhD I:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I proposed, implemented and validated several methods for action recognition and action detection,&lt;/li&gt;
+&lt;li&gt;I published 9 scientific papers,&lt;/li&gt;
+&lt;li&gt;The code of the proposed methods was successfully transferred to Toyota.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/bio/11_disney_intern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/bio/11_disney_intern/</guid>
+      <description>&lt;p&gt;From Jan 2016 until Apr 2016  I was a Research Intern at 
+&lt;a href=&#34;https://www.disneyresearch.com/research-labs/disney-research-pittsburgh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disney Research Pittsburgh&lt;/a&gt;. I was working on codebook representation for People Re-Identification. During my internship:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I published 1 scientific paper,&lt;/li&gt;
+&lt;li&gt;1 patent request was filed.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/bio/12_inria_intern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/bio/12_inria_intern/</guid>
+      <description>&lt;p&gt;From Apr 2013 until Sep 2013 I was Research Intern at 
+&lt;a href=&#34;https://www.inria.fr/centre/sophia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INRIA&lt;/a&gt; (
+&lt;a href=&#34;https://www.inria.fr/en/teams/stars&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;STARS&lt;/a&gt;). I was working on multimodal RGB-D representation for action recognition. During my internship I:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;proposed, implemented and validated new RGB-D descriptor for action recognition,&lt;/li&gt;
+&lt;li&gt;I published 1 scientific paper.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/bio/13_put/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/bio/13_put/</guid>
+      <description>&lt;p&gt;From Apr 2010 until Apr 2012 I was Research Engineer at 
+&lt;a href=&#34;https://www4.put.poznan.pl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Poznan University of Technology&lt;/a&gt; (
+&lt;a href=&#34;http://idss.cs.put.poznan.pl/site/idss-en.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IDSS&lt;/a&gt;). I was working on automatic bird species detection, using machine learning. During the project I:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;implemented and validated bird species detection system for mobile devices (ARM).&lt;/li&gt;
+&lt;li&gt;I published 1 book chapter&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

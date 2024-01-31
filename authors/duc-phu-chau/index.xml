@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Duc Phu Chau | Michal Koperski, PhD</title>
+    <link>/authors/duc-phu-chau/</link>
+      <atom:link href="/authors/duc-phu-chau/index.xml" rel="self" type="application/rss+xml" />
+    <description>Duc Phu Chau</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Sat, 03 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Duc Phu Chau</title>
+      <link>/authors/duc-phu-chau/</link>
+    </image>
+    
+    <item>
+      <title>Online Recognition of Daily Activities by Color-Depth Sensing and Knowledge Models</title>
+      <link>/publication/conference-paper/color_depth_sensing/</link>
+      <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/color_depth_sensing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

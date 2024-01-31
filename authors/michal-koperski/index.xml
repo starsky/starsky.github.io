@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michal Koperski | Michal Koperski, PhD</title>
+    <link>/authors/michal-koperski/</link>
+      <atom:link href="/authors/michal-koperski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michal Koperski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Michal Koperski</title>
+      <link>/authors/michal-koperski/</link>
+    </image>
+    
+    <item>
+      <title>Plugin Networks for Inference under Partial Evidence</title>
+      <link>/publication/conference-paper/plugin_net/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/plugin_net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toyota Smarthome: Real-World Activities of Daily Living</title>
+      <link>/publication/conference-paper/smarthome_ds/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/smarthome_ds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Hybrid Architecture for Human Activity Recognition from RGB-D videos</title>
+      <link>/publication/conference-paper/hybrid_arch/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/hybrid_arch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-Temporal Grids for Daily Living Action Recognition</title>
+      <link>/publication/conference-paper/spatio_temporal_grids/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/spatio_temporal_grids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online temporal detection of daily-living human activities in long untrimmed video streams</title>
+      <link>/publication/conference-paper/online_detection/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/online_detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRAXIS: Towards automatic cognitive assessment using gesture recognition</title>
+      <link>/publication/conference-paper/praxis/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/praxis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep-Temporal LSTM for Daily Living Action Recognition</title>
+      <link>/publication/conference-paper/deep_lstm/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/deep_lstm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action Recognition based on a mixture of RGB and Depth based skeleton</title>
+      <link>/publication/conference-paper/pose_cnn/</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/pose_cnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Groups Re-identification with Temporal Context</title>
+      <link>/publication/conference-paper/group_reid/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/group_reid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Recognition of Daily Activities by Color-Depth Sensing and Knowledge Models</title>
+      <link>/publication/conference-paper/color_depth_sensing/</link>
+      <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/color_depth_sensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Spatial Layout of Features for Real World Scenario RGB-D Action Recognition</title>
+      <link>/publication/conference-paper/spatial_layout/</link>
+      <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/spatial_layout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> A Hybrid Framework for Online Recognition of Activities of Daily Living In Real-World Settings</title>
+      <link>/publication/conference-paper/online_recognition/</link>
+      <pubDate>Tue, 23 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/online_recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised understanding of complex activities from temporal concepts</title>
+      <link>/publication/conference-paper/complex_activities/</link>
+      <pubDate>Tue, 23 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/complex_activities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Unsupervised Models for Online Long-Term Daily Living Activity Recognition</title>
+      <link>/publication/conference-paper/unsupervised/</link>
+      <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimizing Hallucination in Histogram of Oriented Gradients</title>
+      <link>/publication/conference-paper/hallucinations/</link>
+      <pubDate>Tue, 25 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/hallucinations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Trajectories for Action Recognition</title>
+      <link>/publication/conference-paper/3d_trajectories/</link>
+      <pubDate>Mon, 27 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/3d_trajectories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representing Visual Appearance by Video Brownian Covariance Descriptor for Human Action Recognition</title>
+      <link>/publication/conference-paper/brownian/</link>
+      <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/brownian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed standalone mobile data providers for BirdWatch system</title>
+      <link>/publication/conference-paper/birdwatch/</link>
+      <pubDate>Thu, 27 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/birdwatch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

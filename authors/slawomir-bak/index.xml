@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slawomir Bak | Michal Koperski, PhD</title>
+    <link>/authors/slawomir-bak/</link>
+      <atom:link href="/authors/slawomir-bak/index.xml" rel="self" type="application/rss+xml" />
+    <description>Slawomir Bak</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Wed, 07 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Slawomir Bak</title>
+      <link>/authors/slawomir-bak/</link>
+    </image>
+    
+    <item>
+      <title>Groups Re-identification with Temporal Context</title>
+      <link>/publication/conference-paper/group_reid/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/group_reid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimizing Hallucination in Histogram of Oriented Gradients</title>
+      <link>/publication/conference-paper/hallucinations/</link>
+      <pubDate>Tue, 25 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/hallucinations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representing Visual Appearance by Video Brownian Covariance Descriptor for Human Action Recognition</title>
+      <link>/publication/conference-paper/brownian/</link>
+      <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/brownian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

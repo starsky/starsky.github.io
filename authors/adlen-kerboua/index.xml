@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adlen Kerboua | Michal Koperski, PhD</title>
+    <link>/authors/adlen-kerboua/</link>
+      <atom:link href="/authors/adlen-kerboua/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adlen Kerboua</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Mon, 03 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Adlen Kerboua</title>
+      <link>/authors/adlen-kerboua/</link>
+    </image>
+    
+    <item>
+      <title>PRAXIS: Towards automatic cognitive assessment using gesture recognition</title>
+      <link>/publication/conference-paper/praxis/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/praxis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monique Thonnat | Michal Koperski, PhD</title>
+    <link>/authors/monique-thonnat/</link>
+      <atom:link href="/authors/monique-thonnat/index.xml" rel="self" type="application/rss+xml" />
+    <description>Monique Thonnat</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Sat, 02 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Monique Thonnat</title>
+      <link>/authors/monique-thonnat/</link>
+    </image>
+    
+    <item>
+      <title>A New Hybrid Architecture for Human Activity Recognition from RGB-D videos</title>
+      <link>/publication/conference-paper/hybrid_arch/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/hybrid_arch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
