@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Piotr Bilinski | Michal Koperski, PhD</title>
-    <link>/authors/piotr-bilinski/</link>
-      <atom:link href="/authors/piotr-bilinski/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkoperski.com/authors/piotr-bilinski/</link>
+      <atom:link href="https://mkoperski.com/authors/piotr-bilinski/index.xml" rel="self" type="application/rss+xml" />
     <description>Piotr Bilinski</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Mon, 27 Oct 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Piotr Bilinski</title>
-      <link>/authors/piotr-bilinski/</link>
+      <link>https://mkoperski.com/authors/piotr-bilinski/</link>
     </image>
     
     <item>
       <title>3D Trajectories for Action Recognition</title>
-      <link>/publication/conference-paper/3d_trajectories/</link>
+      <link>https://mkoperski.com/publication/conference-paper/3d_trajectories/</link>
       <pubDate>Mon, 27 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/3d_trajectories/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/3d_trajectories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Representing Visual Appearance by Video Brownian Covariance Descriptor for Human Action Recognition</title>
-      <link>/publication/conference-paper/brownian/</link>
+      <link>https://mkoperski.com/publication/conference-paper/brownian/</link>
       <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/brownian/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/brownian/</guid>
       <description></description>
     </item>
     

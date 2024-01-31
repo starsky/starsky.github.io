@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lukasz Kirchner | Michal Koperski, PhD</title>
-    <link>/authors/lukasz-kirchner/</link>
-      <atom:link href="/authors/lukasz-kirchner/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkoperski.com/authors/lukasz-kirchner/</link>
+      <atom:link href="https://mkoperski.com/authors/lukasz-kirchner/index.xml" rel="self" type="application/rss+xml" />
     <description>Lukasz Kirchner</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Thu, 27 Oct 2011 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Lukasz Kirchner</title>
-      <link>/authors/lukasz-kirchner/</link>
+      <link>https://mkoperski.com/authors/lukasz-kirchner/</link>
     </image>
     
     <item>
       <title>Distributed standalone mobile data providers for BirdWatch system</title>
-      <link>/publication/conference-paper/birdwatch/</link>
+      <link>https://mkoperski.com/publication/conference-paper/birdwatch/</link>
       <pubDate>Thu, 27 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/birdwatch/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/birdwatch/</guid>
       <description></description>
     </item>
     

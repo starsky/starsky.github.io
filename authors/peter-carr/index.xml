@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peter Carr | Michal Koperski, PhD</title>
-    <link>/authors/peter-carr/</link>
-      <atom:link href="/authors/peter-carr/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkoperski.com/authors/peter-carr/</link>
+      <atom:link href="https://mkoperski.com/authors/peter-carr/index.xml" rel="self" type="application/rss+xml" />
     <description>Peter Carr</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Wed, 07 Jun 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Peter Carr</title>
-      <link>/authors/peter-carr/</link>
+      <link>https://mkoperski.com/authors/peter-carr/</link>
     </image>
     
     <item>
       <title>Groups Re-identification with Temporal Context</title>
-      <link>/publication/conference-paper/group_reid/</link>
+      <link>https://mkoperski.com/publication/conference-paper/group_reid/</link>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/group_reid/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/group_reid/</guid>
       <description></description>
     </item>
     

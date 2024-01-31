@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Serhan Cosar | Michal Koperski, PhD</title>
-    <link>/authors/serhan-cosar/</link>
-      <atom:link href="/authors/serhan-cosar/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkoperski.com/authors/serhan-cosar/</link>
+      <atom:link href="https://mkoperski.com/authors/serhan-cosar/index.xml" rel="self" type="application/rss+xml" />
     <description>Serhan Cosar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Sat, 03 Jun 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Serhan Cosar</title>
-      <link>/authors/serhan-cosar/</link>
+      <link>https://mkoperski.com/authors/serhan-cosar/</link>
     </image>
     
     <item>
       <title>Online Recognition of Daily Activities by Color-Depth Sensing and Knowledge Models</title>
-      <link>/publication/conference-paper/color_depth_sensing/</link>
+      <link>https://mkoperski.com/publication/conference-paper/color_depth_sensing/</link>
       <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/color_depth_sensing/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/color_depth_sensing/</guid>
       <description></description>
     </item>
     
     <item>
       <title> A Hybrid Framework for Online Recognition of Activities of Daily Living In Real-World Settings</title>
-      <link>/publication/conference-paper/online_recognition/</link>
+      <link>https://mkoperski.com/publication/conference-paper/online_recognition/</link>
       <pubDate>Tue, 23 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/online_recognition/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/online_recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semi-supervised understanding of complex activities from temporal concepts</title>
-      <link>/publication/conference-paper/complex_activities/</link>
+      <link>https://mkoperski.com/publication/conference-paper/complex_activities/</link>
       <pubDate>Tue, 23 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/complex_activities/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/complex_activities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generating Unsupervised Models for Online Long-Term Daily Living Activity Recognition</title>
-      <link>/publication/conference-paper/unsupervised/</link>
+      <link>https://mkoperski.com/publication/conference-paper/unsupervised/</link>
       <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/unsupervised/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/unsupervised/</guid>
       <description></description>
     </item>
     

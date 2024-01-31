@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rui Dai | Michal Koperski, PhD</title>
-    <link>/authors/rui-dai/</link>
-      <atom:link href="/authors/rui-dai/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkoperski.com/authors/rui-dai/</link>
+      <atom:link href="https://mkoperski.com/authors/rui-dai/index.xml" rel="self" type="application/rss+xml" />
     <description>Rui Dai</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Rui Dai</title>
-      <link>/authors/rui-dai/</link>
+      <link>https://mkoperski.com/authors/rui-dai/</link>
     </image>
     
     <item>
       <title>Toyota Smarthome: Real-World Activities of Daily Living</title>
-      <link>/publication/conference-paper/smarthome_ds/</link>
+      <link>https://mkoperski.com/publication/conference-paper/smarthome_ds/</link>
       <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/smarthome_ds/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/smarthome_ds/</guid>
       <description></description>
     </item>
     

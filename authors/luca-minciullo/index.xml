@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luca Minciullo | Michal Koperski, PhD</title>
-    <link>/authors/luca-minciullo/</link>
-      <atom:link href="/authors/luca-minciullo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkoperski.com/authors/luca-minciullo/</link>
+      <atom:link href="https://mkoperski.com/authors/luca-minciullo/index.xml" rel="self" type="application/rss+xml" />
     <description>Luca Minciullo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Luca Minciullo</title>
-      <link>/authors/luca-minciullo/</link>
+      <link>https://mkoperski.com/authors/luca-minciullo/</link>
     </image>
     
     <item>
       <title>Toyota Smarthome: Real-World Activities of Daily Living</title>
-      <link>/publication/conference-paper/smarthome_ds/</link>
+      <link>https://mkoperski.com/publication/conference-paper/smarthome_ds/</link>
       <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/smarthome_ds/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/smarthome_ds/</guid>
       <description></description>
     </item>
     

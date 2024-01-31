@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Michal Koperski, PhD</title>
-    <link>/publication_types/2/</link>
-      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkoperski.com/publication_types/2/</link>
+      <atom:link href="https://mkoperski.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Mon, 03 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>2</title>
-      <link>/publication_types/2/</link>
+      <link>https://mkoperski.com/publication_types/2/</link>
     </image>
     
     <item>
       <title>PRAXIS: Towards automatic cognitive assessment using gesture recognition</title>
-      <link>/publication/conference-paper/praxis/</link>
+      <link>https://mkoperski.com/publication/conference-paper/praxis/</link>
       <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/praxis/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/praxis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online Recognition of Daily Activities by Color-Depth Sensing and Knowledge Models</title>
-      <link>/publication/conference-paper/color_depth_sensing/</link>
+      <link>https://mkoperski.com/publication/conference-paper/color_depth_sensing/</link>
       <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/color_depth_sensing/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/color_depth_sensing/</guid>
       <description></description>
     </item>
     

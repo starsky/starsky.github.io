@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Piotr Semberecki | Michal Koperski, PhD</title>
-    <link>/authors/piotr-semberecki/</link>
-      <atom:link href="/authors/piotr-semberecki/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkoperski.com/authors/piotr-semberecki/</link>
+      <atom:link href="https://mkoperski.com/authors/piotr-semberecki/index.xml" rel="self" type="application/rss+xml" />
     <description>Piotr Semberecki</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Piotr Semberecki</title>
-      <link>/authors/piotr-semberecki/</link>
+      <link>https://mkoperski.com/authors/piotr-semberecki/</link>
     </image>
     
     <item>
       <title>Plugin Networks for Inference under Partial Evidence</title>
-      <link>/publication/conference-paper/plugin_net/</link>
+      <link>https://mkoperski.com/publication/conference-paper/plugin_net/</link>
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/plugin_net/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/plugin_net/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michal Koperski, PhD</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mkoperski.com/</link>
+      <atom:link href="https://mkoperski.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Michal Koperski, PhD</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Michal Koperski, PhD</title>
-      <link>/</link>
+      <link>https://mkoperski.com/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>/courses/example/example1/</link>
+      <link>https://mkoperski.com/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example1/</guid>
+      <guid>https://mkoperski.com/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>/courses/example/example2/</link>
+      <link>https://mkoperski.com/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example2/</guid>
+      <guid>https://mkoperski.com/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>/talk/example/</link>
+      <link>https://mkoperski.com/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example/</guid>
+      <guid>https://mkoperski.com/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -78,25 +78,25 @@
     
     <item>
       <title>Plugin Networks for Inference under Partial Evidence</title>
-      <link>/publication/conference-paper/plugin_net/</link>
+      <link>https://mkoperski.com/publication/conference-paper/plugin_net/</link>
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/plugin_net/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/plugin_net/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toyota Smarthome: Real-World Activities of Daily Living</title>
-      <link>/publication/conference-paper/smarthome_ds/</link>
+      <link>https://mkoperski.com/publication/conference-paper/smarthome_ds/</link>
       <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/smarthome_ds/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/smarthome_ds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>/post/writing-technical-content/</link>
+      <link>https://mkoperski.com/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/post/writing-technical-content/</guid>
+      <guid>https://mkoperski.com/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -328,17 +328,17 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
     
     <item>
       <title>A New Hybrid Architecture for Human Activity Recognition from RGB-D videos</title>
-      <link>/publication/conference-paper/hybrid_arch/</link>
+      <link>https://mkoperski.com/publication/conference-paper/hybrid_arch/</link>
       <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/hybrid_arch/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/hybrid_arch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
+      <link>https://mkoperski.com/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/jupyter/</guid>
+      <guid>https://mkoperski.com/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -386,9 +386,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://mkoperski.com/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://mkoperski.com/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -520,97 +520,97 @@ $$&lt;/p&gt;
     
     <item>
       <title>Spatio-Temporal Grids for Daily Living Action Recognition</title>
-      <link>/publication/conference-paper/spatio_temporal_grids/</link>
+      <link>https://mkoperski.com/publication/conference-paper/spatio_temporal_grids/</link>
       <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/spatio_temporal_grids/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/spatio_temporal_grids/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online temporal detection of daily-living human activities in long untrimmed video streams</title>
-      <link>/publication/conference-paper/online_detection/</link>
+      <link>https://mkoperski.com/publication/conference-paper/online_detection/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/online_detection/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/online_detection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PRAXIS: Towards automatic cognitive assessment using gesture recognition</title>
-      <link>/publication/conference-paper/praxis/</link>
+      <link>https://mkoperski.com/publication/conference-paper/praxis/</link>
       <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/praxis/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/praxis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep-Temporal LSTM for Daily Living Action Recognition</title>
-      <link>/publication/conference-paper/deep_lstm/</link>
+      <link>https://mkoperski.com/publication/conference-paper/deep_lstm/</link>
       <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/deep_lstm/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/deep_lstm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Action Recognition based on a mixture of RGB and Depth based skeleton</title>
-      <link>/publication/conference-paper/pose_cnn/</link>
+      <link>https://mkoperski.com/publication/conference-paper/pose_cnn/</link>
       <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/pose_cnn/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/pose_cnn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Groups Re-identification with Temporal Context</title>
-      <link>/publication/conference-paper/group_reid/</link>
+      <link>https://mkoperski.com/publication/conference-paper/group_reid/</link>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/group_reid/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/group_reid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online Recognition of Daily Activities by Color-Depth Sensing and Knowledge Models</title>
-      <link>/publication/conference-paper/color_depth_sensing/</link>
+      <link>https://mkoperski.com/publication/conference-paper/color_depth_sensing/</link>
       <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/color_depth_sensing/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/color_depth_sensing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling Spatial Layout of Features for Real World Scenario RGB-D Action Recognition</title>
-      <link>/publication/conference-paper/spatial_layout/</link>
+      <link>https://mkoperski.com/publication/conference-paper/spatial_layout/</link>
       <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/spatial_layout/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/spatial_layout/</guid>
       <description></description>
     </item>
     
     <item>
       <title> A Hybrid Framework for Online Recognition of Activities of Daily Living In Real-World Settings</title>
-      <link>/publication/conference-paper/online_recognition/</link>
+      <link>https://mkoperski.com/publication/conference-paper/online_recognition/</link>
       <pubDate>Tue, 23 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/online_recognition/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/online_recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semi-supervised understanding of complex activities from temporal concepts</title>
-      <link>/publication/conference-paper/complex_activities/</link>
+      <link>https://mkoperski.com/publication/conference-paper/complex_activities/</link>
       <pubDate>Tue, 23 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/complex_activities/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/complex_activities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>/project/external-project/</link>
+      <link>https://mkoperski.com/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
+      <guid>https://mkoperski.com/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>/project/internal-project/</link>
+      <link>https://mkoperski.com/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
+      <guid>https://mkoperski.com/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -621,9 +621,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>https://mkoperski.com/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started/</guid>
+      <guid>https://mkoperski.com/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
@@ -765,49 +765,49 @@ $$&lt;/p&gt;
     
     <item>
       <title>Generating Unsupervised Models for Online Long-Term Daily Living Activity Recognition</title>
-      <link>/publication/conference-paper/unsupervised/</link>
+      <link>https://mkoperski.com/publication/conference-paper/unsupervised/</link>
       <pubDate>Tue, 03 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/unsupervised/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/unsupervised/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minimizing Hallucination in Histogram of Oriented Gradients</title>
-      <link>/publication/conference-paper/hallucinations/</link>
+      <link>https://mkoperski.com/publication/conference-paper/hallucinations/</link>
       <pubDate>Tue, 25 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/hallucinations/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/hallucinations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3D Trajectories for Action Recognition</title>
-      <link>/publication/conference-paper/3d_trajectories/</link>
+      <link>https://mkoperski.com/publication/conference-paper/3d_trajectories/</link>
       <pubDate>Mon, 27 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/3d_trajectories/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/3d_trajectories/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Representing Visual Appearance by Video Brownian Covariance Descriptor for Human Action Recognition</title>
-      <link>/publication/conference-paper/brownian/</link>
+      <link>https://mkoperski.com/publication/conference-paper/brownian/</link>
       <pubDate>Tue, 26 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/brownian/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/brownian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed standalone mobile data providers for BirdWatch system</title>
-      <link>/publication/conference-paper/birdwatch/</link>
+      <link>https://mkoperski.com/publication/conference-paper/birdwatch/</link>
       <pubDate>Thu, 27 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/birdwatch/</guid>
+      <guid>https://mkoperski.com/publication/conference-paper/birdwatch/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/bio/05_nn/</link>
+      <link>https://mkoperski.com/bio/05_nn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/bio/05_nn/</guid>
+      <guid>https://mkoperski.com/bio/05_nn/</guid>
       <description>&lt;p&gt;From Dec 2023 I am a co-founder and Senior ML Engineer at 
 &lt;a href=&#34;http://neuralspike.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuralSpikeAI&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
@@ -821,9 +821,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/bio/06_tplx/</link>
+      <link>https://mkoperski.com/bio/06_tplx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/bio/06_tplx/</guid>
+      <guid>https://mkoperski.com/bio/06_tplx/</guid>
       <description>&lt;p&gt;From Aug 2018 until Nov 2023 I was a Senior ML Engineer at 
 &lt;a href=&#34;https://www.tooploox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tooploox&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
@@ -838,9 +838,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/bio/07_mmhmm/</link>
+      <link>https://mkoperski.com/bio/07_mmhmm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/bio/07_mmhmm/</guid>
+      <guid>https://mkoperski.com/bio/07_mmhmm/</guid>
       <description>&lt;p&gt;From Aug 2020 until Nov 2022 I was a Senior Machine Learning Engineer at 
 &lt;a href=&#34;https://www.mmhmm.app&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mmhmm&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
@@ -853,9 +853,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/bio/08_june/</link>
+      <link>https://mkoperski.com/bio/08_june/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/bio/08_june/</guid>
+      <guid>https://mkoperski.com/bio/08_june/</guid>
       <description>&lt;p&gt;From Jan 2019 until Jun 2020 I was a Machine Learning Scpecialist at 
 &lt;a href=&#34;https://juneoven.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;June&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
@@ -869,9 +869,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/bio/09_inria_postdoc/</link>
+      <link>https://mkoperski.com/bio/09_inria_postdoc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/bio/09_inria_postdoc/</guid>
+      <guid>https://mkoperski.com/bio/09_inria_postdoc/</guid>
       <description>&lt;p&gt;From Dec 2017 until Jul 2018 I was a Post-doc at 
 &lt;a href=&#34;https://www.inria.fr/centre/sophia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INRIA&lt;/a&gt; (
 &lt;a href=&#34;https://www.inria.fr/en/teams/stars&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;STARS&lt;/a&gt;).&lt;/p&gt;
@@ -886,9 +886,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/bio/10_inria.phd/</link>
+      <link>https://mkoperski.com/bio/10_inria.phd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/bio/10_inria.phd/</guid>
+      <guid>https://mkoperski.com/bio/10_inria.phd/</guid>
       <description>&lt;p&gt;From Feb 2014 until Nov 2017 I was PhD Student at 
 &lt;a href=&#34;https://www.inria.fr/centre/sophia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INRIA&lt;/a&gt; (
 &lt;a href=&#34;https://www.inria.fr/en/teams/stars&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;STARS&lt;/a&gt;). During my PhD I:&lt;/p&gt;
@@ -902,9 +902,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/bio/11_disney_intern/</link>
+      <link>https://mkoperski.com/bio/11_disney_intern/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/bio/11_disney_intern/</guid>
+      <guid>https://mkoperski.com/bio/11_disney_intern/</guid>
       <description>&lt;p&gt;From Jan 2016 until Apr 2016  I was a Research Intern at 
 &lt;a href=&#34;https://www.disneyresearch.com/research-labs/disney-research-pittsburgh/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disney Research Pittsburgh&lt;/a&gt;. I was working on codebook representation for People Re-Identification. During my internship:&lt;/p&gt;
 &lt;ul&gt;
@@ -916,9 +916,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/bio/12_inria_intern/</link>
+      <link>https://mkoperski.com/bio/12_inria_intern/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/bio/12_inria_intern/</guid>
+      <guid>https://mkoperski.com/bio/12_inria_intern/</guid>
       <description>&lt;p&gt;From Apr 2013 until Sep 2013 I was Research Intern at 
 &lt;a href=&#34;https://www.inria.fr/centre/sophia/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INRIA&lt;/a&gt; (
 &lt;a href=&#34;https://www.inria.fr/en/teams/stars&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;STARS&lt;/a&gt;). I was working on multimodal RGB-D representation for action recognition. During my internship I:&lt;/p&gt;
@@ -931,9 +931,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/bio/13_put/</link>
+      <link>https://mkoperski.com/bio/13_put/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/bio/13_put/</guid>
+      <guid>https://mkoperski.com/bio/13_put/</guid>
       <description>&lt;p&gt;From Apr 2010 until Apr 2012 I was Research Engineer at 
 &lt;a href=&#34;https://www4.put.poznan.pl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Poznan University of Technology&lt;/a&gt; (
 &lt;a href=&#34;http://idss.cs.put.poznan.pl/site/idss-en.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IDSS&lt;/a&gt;). I was working on automatic bird species detection, using machine learning. During the project I:&lt;/p&gt;
